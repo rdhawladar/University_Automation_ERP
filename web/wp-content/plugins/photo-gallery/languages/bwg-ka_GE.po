@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2016-01-08 10:28+0400\n"
+"PO-Revision-Date: 2016-01-08 10:28+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ka_GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\photo-"
+"gallery\\frontend\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\photo-"
+"gallery\\framework\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:137
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:161
+msgid "There is no theme selected or the theme was deleted."
+msgstr "არ არსებობს თემა ავტორმა ან თემა წაშლილი იყო"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:167
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:201
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:176
+msgid "There is no album selected or the album was deleted."
+msgstr "არ არსებობს ფოტოალბომის ავტორმა ან ფოტოალბომის წაშლილი იყო."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:189
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:164
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:79
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:172
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:169
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:174
+msgid "There are no images in this gallery."
+msgstr "არ არსებობს სურათები ამ გალერეა."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:895
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:882
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:454
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:494
+msgid "Back"
+msgstr "უკან"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:918
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:893
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:510
+msgid "Album is empty."
+msgstr "ალბომი ცარიელია"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1036
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1024
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:583
+msgid "There are no images matching your search."
+msgstr "არ არსებობს images შესატყვისი თქვენი ძებნა."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1041
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1029
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:588
+msgid "Gallery is empty."
+msgstr "გალერეა ცარიელია"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1097
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1147
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1077
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1126
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:543
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:921
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2820
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1655
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:454
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:397
+msgid "Play"
+msgstr "ითამაშოს"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:994
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1158
+msgid "More"
+msgstr "უფრო"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1153
+msgid "Hide"
+msgstr "დასამალი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:74
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:163
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:164
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:161
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:166
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "არ არსებობს შერჩეულ გალერეაში ან გალერეაში წაშლილი იყო"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:547
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:933
+msgid "Show comments"
+msgstr "აჩვენეთ კომენტარი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:553
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:554
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:941
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:942
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:560
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:561
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:948
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:949
+msgid "Share on Twitter"
+msgstr "Share on Twitter."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:567
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:568
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:955
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:956
+msgid "Share on Google+"
+msgstr "Share on Google+"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:574
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:575
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:962
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:963
+msgid "Share on Pinterest"
+msgstr "Share on Pinterest"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:581
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:582
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:969
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:970
+msgid "Share on Tumblr"
+msgstr "Share on Tumblr"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:531
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:537
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2814
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2829
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1646
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1664
+msgid "Pause"
+msgstr "პაუზა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:900
+msgid "The image has been deleted."
+msgstr "გამოსახულება წაშლილია"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:925
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2089
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2649
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2745
+msgid "Maximize"
+msgstr "მაქსიმალურად"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:929
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2091
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2747
+msgid "Fullscreen"
+msgstr "ეკრანის"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:931
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2484
+msgid "Show info"
+msgstr "აჩვენეთ ინფორმაცია"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:935
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2495
+msgid "Show rating"
+msgstr "აჩვენეთ ნიშანი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:977
+msgid "Open image in original size."
+msgstr "გახსენით იმიჯი ორიგინალური ზომა. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:998
+msgid "Download original image"
+msgstr "ჩამოტვირთვა ორიგინალური იმიჯი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1108
+msgid "Hits: "
+msgstr "Hits: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1119
+msgid "Rated."
+msgstr "შეაფასა."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1123
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1140
+msgid "Not rated yet."
+msgstr "არ არის შეფასებული. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1126
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1162
+msgid "Votes: "
+msgstr "რაოდენობა: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1160
+msgid "Cancel your rating."
+msgstr "გააუქმოს თქვენი ნიშანი. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1162
+msgid "You have already rated."
+msgstr "თქვენ უკვე შეაფასა. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1261
+msgid "Error. Incorrect Verification Code."
+msgstr "შეცდომა. მცდარი Verification Code. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1268
+msgid "This is not a valid email address."
+msgstr "ეს არ არის მართებული ელფოსტა. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1276
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2311
+msgid "Hide Comments"
+msgstr "ღონისძიებები კომენტარები"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1280
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Name"
+msgstr "ასახელებს"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1286
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Email"
+msgstr "ელ "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1293
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Comment"
+msgstr "კომენტარები"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1298
+msgid "Verification Code"
+msgstr "Verification Code"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1321
+msgid "Submit"
+msgstr "წარმოადგინოს"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1322
+msgid "Your comment is awaiting moderation"
+msgstr "თქვენი კომენტარი ელოდება მოდერაცია "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1351
+msgid "Delete Comment"
+msgstr "წაშალე კომენტარები"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2261
+msgid "Show Comments"
+msgstr "კომენტარების ხილვა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2480
+msgid "Hide info"
+msgstr "ღონისძიებები კარგი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2491
+msgid "Hide rating"
+msgstr "დამალე ნიშანი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2686
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2895
+msgid "Restore"
+msgstr "აღდგენა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2800
+msgid "Exit Fullscreen"
+msgstr "Exit Fullscreen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:46
+msgid "Item Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:52
+msgid "Error. Please install plugin again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:58
+msgid "Item Succesfully Deleted."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:64
+msgid "You can't delete default theme"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:70
+msgid "Items Succesfully Deleted."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:76
+msgid "You must select at least one item."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:82
+msgid "The item is successfully set as default."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:88
+msgid "Options Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:94
+msgid "Item Succesfully Published."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:100
+msgid "Items Succesfully Published."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:106
+msgid "Item Succesfully Unpublished."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:112
+msgid "Items Succesfully Unpublished."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:118
+msgid "Ordering Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:124
+msgid "A term with the name provided already exists."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:130
+msgid "Name field is required."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:136
+msgid "The slug must be unique."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:142
+msgid "Changes must be saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:188
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:362
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:725
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:781
+msgid "Search"
+msgstr "ძებნა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:189
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:363
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:722
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:784
+msgid "Reset"
+msgstr "ხელახლა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:315
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:465
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:545
+msgid "of"
+msgstr "შესახებ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:436
+msgid "item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:516
+msgid " item(s)"
+msgstr "ერთეულზე"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:521
+msgid "First"
+msgstr "პირველი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:522
+msgid "Previous"
+msgstr "წინა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:523
+msgid "Next"
+msgstr "შემდეგი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:524
+msgid "Last"
+msgstr "გაგრძელდება"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:542
+msgid "Go to the first page"
+msgstr "გადადით პირველ გვერდზე"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:543
+msgid "Go to the previous page"
+msgstr "გადადით წინა გვერდზე"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:549
+msgid "Go to the next page"
+msgstr "წასვლა მომდევნო გვერდზე"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:550
+msgid "Go to the last page"
+msgstr "გადასვლა ბოლო გვერდი"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:562
+msgid "Load More..."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:846
+msgid "Order by: "
+msgstr "Order by"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:848
+msgid "Default"
+msgstr "Default"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:849
+msgid "Filename"
+msgstr "filename"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:850
+msgid "Size"
+msgstr "ზომა"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:851
+msgid "Random"
+msgstr "შემთხვევითი"
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "ფოტო გალერეა მოდული განახლების ინტერვალი."

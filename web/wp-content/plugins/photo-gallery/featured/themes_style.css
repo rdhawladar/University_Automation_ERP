@@ -1,0 +1,186 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+#main_featured_themes_page #featured-plugins-list {
+	position: relative;
+	margin: 0px auto;
+	height: auto;
+	display: table;
+	list-style: none;
+	text-align: center;
+	width: 100%;
+}
+
+#main_featured_themes_page #featured-plugins-list li {
+	display: inline-table;
+	width: 245px;
+	margin: 20px 10px 0px 10px;
+	background: #FFFFFF;
+  border-right: 3px solid #E5E5E5;
+  height: 405px;
+  border-bottom: 3px solid #E5E5E5;
+  position: relative;
+}
+
+#main_featured_themes_page #featured-plugins-list li .product {
+	position:relative;
+	height: 168px;
+	background-color: #F1F1F1 !important;
+	background-size: 100% !important;
+}
+
+#main_featured_themes_page #featured-plugins-list li .title {
+	width: 91%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#main_featured_themes_page {
+  width: 90%;
+  margin: 15px auto 0px auto;
+}
+
+#main_featured_themes_page h3 {
+  border-bottom: 2px solid #CECECE;
+  color: rgb(111, 111, 111);
+  font-family: Segoe UI;
+  font-size: 18pt;
+  margin: 0px auto 15px auto;
+  padding: 20px 0;
+}
+
+#main_featured_themes_page #featured-plugins-list  li.sauron .product {background:url("images/sauron.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.portfolio_gallery .product {background:url("images/portfolio.png") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.business_elite  .product {background:url("images/business_elite.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.mottomag  .product {background:url("images/mottomag.jpg") left center no-repeat;  }
+#main_featured_themes_page #featured-plugins-list  li.business_world  .product {background:url("images/business_world.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.best_magazine  .product {background:url("images/best_magazine.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.wedding_style  .product {background:url("images/wedding_style.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.magazine .product {background:url("images/magazine.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.weddings  .product {background:url("images/wedding.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.exclusive  .product {background:url("images/exclusive.jpg") left center no-repeat;}
+#main_featured_themes_page #featured-plugins-list  li.expert .product {background:url("images/expert.jpg") left center no-repeat;   background-size: 80%;}
+
+#main_featured_themes_page #featured-plugins-list li .title .heading {
+	display: block;
+  position: relative;
+  font-size: 17px;
+  color: #767676;
+  margin: 13px 0px 13px 0px;
+  text-transform: uppercase;
+}
+
+#main_featured_themes_page #featured-plugins-list li .title  p {
+	font-size:14px;
+	color:#444;
+	margin-left:20px;
+}
+
+#main_featured_themes_page #featured-plugins-list li .description {
+	height:130px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#main_featured_themes_page #featured-plugins-list li .description  p {
+	text-align: center;
+  width: 100%;
+  color: #9A9A9A;
+  font-family: "Open Sans",sans-serif;
+}
+
+#featured-plugins-list li a.download {
+	display: block;
+  border-top: 1px solid #CACACA;
+  outline: none;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 40px;
+  text-decoration: none;
+  font-weight: bolder;
+  text-align: center;
+  color: #134D68;
+  position: absolute;
+  text-transform: uppercase;
+  bottom: 0;
+  left: 10px;
+	font-family: "Open Sans",sans-serif;
+	text-shadow: 1px 0;
+}
+
+#featured-plugins-list li a.download:hover {
+	color: #F47629;
+}
+
+.featured_header {
+  background: #11465F;
+  border-right: 3px solid #E5E5E5;
+  border-bottom: 3px solid #E5E5E5;
+  position: relative;
+  padding: 20px 0;
+}
+
+.featured_header .old_price {
+	color: rgba(180, 180, 180, 0.3);
+  text-decoration: line-through;
+  font-family: Oswald;
+}
+
+.featured_header h1.get_plugins {
+  color: #FFFFFF;
+  height: 85px;
+  margin: 0;
+  background-size: 85% 100%;
+  background-position: center;
+  line-height: 60px;
+}
+
+.featured_header .try-now{
+	text-align: center;
+}
+	
+.featured_header .try-now span {
+	display: inline-block;
+  padding: 7px 16px;
+  background: #F47629;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 23px;
+}
+	
+.featured_header h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+
+.featured_header a {
+	text-decoration: none;
+}
+
+.featured_header .old-price {
+	color: #889CA8;
+	text-decoration: line-through;
+}
+
+@media screen and (max-width: 1035px) {
+  .featured_header h1 {
+		font-size: 37px;
+		line-height: 0;
+	}
+}
+
+@media screen and (max-width: 835px) {
+	.get_plugins span {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 435px) {
+  .featured_header h1 {
+		font-size: 20px;
+		line-height: 17px;
+	}
+}

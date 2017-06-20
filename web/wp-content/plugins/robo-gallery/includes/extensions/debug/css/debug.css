@@ -1,0 +1,19 @@
+/*
+*      Robo Gallery     
+*      Version: 2.0
+*      By Robosoft
+*
+*      Contact: http://robosoft.co
+*      Created: 2015
+*      Licensed under the GPLv2 license - http://opensource.org/licenses/gpl-2.0.php
+*
+*      Copyright (c) 2014-2016, Robosoft. All rights reserved.
+*      Available only in  http://robosoft.co/robogallery
+*/
+
+.robo_gallery{
+	border: 2px solid lime !important;
+}
+.rbs_gallery_button{
+	border: 2px solid fuchsia !important;	
+}

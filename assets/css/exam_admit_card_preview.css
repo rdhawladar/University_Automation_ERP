@@ -1,0 +1,35 @@
+
+.midterm_admit{
+	background:aqua;
+	color:#333;
+	line-height:2.5em;
+	padding:30px;
+}
+.finalterm_admit{
+	background:lightpink;
+        color:#333;
+	line-height:2.5em;
+	padding:30px;
+}
+.title{
+	font-size:30px;
+}
+
+.title_address{
+	font-size:20px;
+	
+}
+.head_title_admit{
+	font-size:35px;
+	background:#ddd;
+	padding:10px;
+	line-height:3.5em;
+        border-radius: 6px 6px 6px 6px;
+}
+thead,th{
+	text-align:center;
+}
+table, tr{
+	width:100%;
+	
+}

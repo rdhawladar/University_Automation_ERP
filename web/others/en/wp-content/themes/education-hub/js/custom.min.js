@@ -1,0 +1,1 @@
+!function($){$(document).ready(function($){var $scroll_obj=$("#btn-scrollup");$scroll_obj.length>0&&($(window).scroll(function(){$(this).scrollTop()>100?$scroll_obj.fadeIn():$scroll_obj.fadeOut()}),$scroll_obj.click(function(){return $("html, body").animate({scrollTop:0},600),!1}))})}(jQuery);

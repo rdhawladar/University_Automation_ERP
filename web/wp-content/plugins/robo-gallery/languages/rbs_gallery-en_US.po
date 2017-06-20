@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Robo Gallery\n"
+"POT-Creation-Date: 2016-03-24 19:23+0100\n"
+"PO-Revision-Date: 2016-03-24 19:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: RoboSoft Team <team@robosoft.co>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extensions/backup/backup.class.php:271
+msgid "Can't create directory for archive file."
+msgstr "Can't create directory for archive file."
+
+#: extensions/backup/backup.class.php:351
+#, php-format
+msgid "Can not clear archive's file: \"%s\"."
+msgstr "Can not clear archive's file: \"%s\"."
+
+#: extensions/backup/backup.class.php:367
+#, php-format
+msgid "Didn't save archive with files \"%s\"."
+msgstr "Didn't save archive with files \"%s\"."
+
+#: extensions/backup/backup.class.php:633
+msgid "Can't find import xml file in archive."
+msgstr "Can't find import xml file in archive."
+
+#: extensions/backup/backup.class.php:676
+msgid "Can't set xml content for reading."
+msgstr "Can't set xml content for reading."
+
+#: extensions/backup/backup.class.php:682
+msgid "Invalid document of import"
+msgstr "Invalid document of import"
+
+#: extensions/backup/backup.class.php:846
+#, php-format
+msgid "Error insert post attachment with ID: \"%d\" and guid: \"%s\". %s"
+msgstr "Error insert post attachment with ID: \"%d\" and guid: \"%s\". %s"
+
+#: extensions/backup/backup.class.php:902
+msgid "Invalid xml content."
+msgstr "Invalid xml content."
+
+#: extensions/backup/backup.class.php:978
+#, php-format
+msgid "Error insert post with ID: \"%d\" and title: \"%s\". %s"
+msgstr "Error insert post with ID: \"%d\" and title: \"%s\". %s"
+
+#: extensions/backup/backup.class.php:1009
+#, php-format
+msgid ""
+"Error insert postmeta for post with ID %d. Meta key: \"%s\", meta value: \"%s"
+"\""
+msgstr ""
+"Error insert postmeta for post with ID %d. Meta key: \"%s\", meta value: \"%s"
+"\""
+
+#: extensions/backup/backup.class.php:1061
+#, php-format
+msgid "Can't open archive \"%s\"."
+msgstr "Can't open archive \"%s\"."
+
+#: extensions/backup/backup.class.php:1083
+#, php-format
+msgid "Can't import file \"%s\". File is absent in archive"
+msgstr "Can't import file \"%s\". File is absent in archive"
+
+#: extensions/backup/backup.class.php:1115
+#, php-format
+msgid "Can't create directory \"%s\" during import file."
+msgstr "Can't create directory \"%s\" during import file."
+
+#: extensions/backup/backup.class.php:1119
+#, php-format
+msgid "Can't create file \"%s\" during import file."
+msgstr "Can't create file \"%s\" during import file."
+
+#: extensions/backup/backup.form.php:34
+msgid "Error: Can't check Maximum Upload File Size"
+msgstr "Error: Can't check Maximum Upload File Size"
+
+#: extensions/backup/backup.form.php:58
+msgid "Robo Gallery Backup"
+msgstr "Robo Gallery Backup"
+
+#: extensions/backup/backup.form.php:97
+msgid "Error Import "
+msgstr "Error Import "
+
+#: extensions/backup/backup.form.php:101
+msgid "Success Import "
+msgstr "Success Import "
+
+#: extensions/backup/backup.form.php:103
+msgid "Import Post"
+msgstr "Import Post"
+
+#: extensions/backup/backup.form.php:104
+msgid "Import Images"
+msgstr "Import Images"
+
+#: extensions/backup/backup.form.php:110
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: extensions/backup/backup.form.php:111
+msgid "Duplicate Images"
+msgstr "Duplicate Images"
+
+#: extensions/backup/backup.form.php:118
+msgid "Skipped Post"
+msgstr "Skipped Post"
+
+#: extensions/backup/backup.form.php:119
+msgid "Skipped Images"
+msgstr "Skipped Images"
+
+#: extensions/backup/backup.form.php:126
+msgid "Error: please check backup file"
+msgstr "Error: please check backup file"
+
+#: extensions/backup/backup.form.php:129
+msgid "Error: check secure"
+msgstr "Error: check secure"
+
+#: extensions/backup/backup.form.php:155
+msgid ""
+"You can use Full Backup options to make backup of configured galleries "
+"settings and images. As result you'll get archive with XML file of galleries "
+"settings and all images of your galleries"
+msgstr ""
+"You can use Full Backup options to make backup of configured galleries "
+"settings and images. As result you'll get archive with XML file of galleries "
+"settings and all images of your galleries"
+
+#: extensions/backup/backup.form.php:160 extensions/backup/backup.form.php:189
+msgid "File Name"
+msgstr "File Name"
+
+#: extensions/backup/backup.form.php:169
+msgid "Download Full Backup"
+msgstr "Download Full Backup"
+
+#: extensions/backup/backup.form.php:183
+msgid ""
+"After EXPORT copy images from server folder: {Wordpress folder}/wp-content/"
+"uploads  to the new location by FTP"
+msgstr ""
+"After EXPORT copy images from server folder: {Wordpress folder}/wp-content/"
+"uploads  to the new location by FTP"
+
+#: extensions/backup/backup.form.php:197
+msgid "Download Backup"
+msgstr "Download Backup"
+
+#: extensions/backup/backup.form.php:213
+msgid "Sever Environment"
+msgstr "Sever Environment"
+
+#: extensions/backup/backup.form.php:216
+msgid "Max upload size"
+msgstr "Max upload size"
+
+#: extensions/backup/backup.form.php:217
+msgid "Max POST size"
+msgstr "Max POST size"
+
+#: extensions/backup/backup.form.php:218
+msgid "How to increase the max upload size?"
+msgstr "How to increase the max upload size?"
+
+#: extensions/backup/backup.form.php:223 extensions/backup/backup.form.php:226
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: extensions/backup/backup.form.php:229
+msgid "Make copy if such gallery or image already exist in system"
+msgstr "Make copy if such gallery or image already exist in system"
+
+#: extensions/backup/backup.form.php:238
+msgid "Select backup file"
+msgstr "Select backup file"
+
+#: extensions/backup/backup.form.php:246
+msgid "Upload XML"
+msgstr "Upload XML"
+
+#: extensions/category/category.class.php:89
+msgid "Categories"
+msgstr "Categories"
+
+#: extensions/category/category.class.php:149
+msgid "Save"
+msgstr "Save"
+
+#: extensions/category/category.class.php:152
+msgid "Cancel"
+msgstr "Cancel"
+
+#: extensions/category/category.class.php:161
+msgid "Error"
+msgstr "Error"
+
+#: extensions/category/category.class.php:164
+msgid "OK"
+msgstr "OK"
+
+#: extensions/category/category.class.php:197
+msgid "Root Category"
+msgstr "Root Category"
+
+#: extensions/category/category.class.php:209
+#: extensions/rbs_create_post_ajax.php:130
+#: extensions/rbs_create_post_ajax.php:188
+#: extensions/rbs_create_post_ajax.php:189
+msgid "Edit"
+msgstr "Edit"
+
+#: extensions/category/category.class.php:226
+msgid "Post ID is absent in request"
+msgstr "Post ID is absent in request"
+
+#: extensions/category/category.class.php:252
+msgid "Post type is absent in request"
+msgstr "Post type is absent in request"
+
+#: extensions/category/category.class.php:286
+msgid "Empty posts hierarchy data for saving"
+msgstr "Empty posts hierarchy data for saving"
+
+#: extensions/category/category.class.php:291
+msgid "Wrong posts hierarchy data for saving"
+msgstr "Wrong posts hierarchy data for saving"
+
+#: extensions/rbs_create_post.php:10
+msgid "Post manager"
+msgstr "Post manager"
+
+#: extensions/rbs_create_post.php:11 rbs_gallery_button.php:26
+#: rbs_gallery_list.php:28
+msgid "Close"
+msgstr "Close"
+
+#: extensions/rbs_create_post.php:12 options/rbs_gallery_options_tools.php:32
+msgid "Create post"
+msgstr "Create post"
+
+#: extensions/rbs_create_post.php:17
+msgid "Loading . . . ."
+msgstr "Loading . . . ."
+
+#: extensions/rbs_create_post_ajax.php:31
+#: extensions/rbs_create_post_ajax.php:38
+#: extensions/rbs_create_post_ajax.php:85
+#: extensions/rbs_create_post_ajax.php:120
+msgid "Post not created. Error: "
+msgstr "Post not created. Error: "
+
+#: extensions/rbs_create_post_ajax.php:31
+#: extensions/rbs_create_post_ajax.php:151
+#: extensions/rbs_create_post_ajax.php:209
+msgid "Empty  gallery ID"
+msgstr "Empty  gallery ID"
+
+#: extensions/rbs_create_post_ajax.php:38
+msgid "Incorrect  gallery ID"
+msgstr "Incorrect  gallery ID"
+
+#: extensions/rbs_create_post_ajax.php:41
+msgid "Add new post"
+msgstr "Add new post"
+
+#: extensions/rbs_create_post_ajax.php:46
+msgid "Category"
+msgstr "Category"
+
+#: extensions/rbs_create_post_ajax.php:51
+#: extensions/rbs_create_post_ajax.php:165
+#: options/rbs_gallery_options_hover.php:118
+#: options/rbs_gallery_options_lightbox.php:48
+#: options/rbs_gallery_options_polaroid.php:46 rbs_gallery_widget.php:71
+msgid "Title"
+msgstr "Title"
+
+#: extensions/rbs_create_post_ajax.php:56
+msgid "Slug"
+msgstr "Slug"
+
+#: extensions/rbs_create_post_ajax.php:61
+#: options/rbs_gallery_options_lightbox.php:29
+msgid "Text"
+msgstr "Text"
+
+#: extensions/rbs_create_post_ajax.php:69
+msgid "Short tag of the gallery will be insert into created article."
+msgstr "Short tag of the gallery will be insert into created article."
+
+#: extensions/rbs_create_post_ajax.php:127
+msgid "Post "
+msgstr "Post "
+
+#: extensions/rbs_create_post_ajax.php:127
+msgid " created"
+msgstr " created"
+
+#: extensions/rbs_create_post_ajax.php:133
+#: extensions/rbs_create_post_ajax.php:193
+#: extensions/rbs_create_post_ajax.php:194
+msgid "Preview"
+msgstr "Preview"
+
+#: extensions/rbs_create_post_ajax.php:139
+msgid "Error: input value"
+msgstr "Error: input value"
+
+#: extensions/rbs_create_post_ajax.php:151
+#: extensions/rbs_create_post_ajax.php:209
+msgid "Error: "
+msgstr "Error: "
+
+#: extensions/rbs_create_post_ajax.php:166
+msgid "Status"
+msgstr "Status"
+
+#: extensions/rbs_create_post_ajax.php:184
+msgid "publish"
+msgstr "publish"
+
+#: extensions/stats/stats.form.php:18
+msgid "Robo Gallery Statistics"
+msgstr "Robo Gallery Statistics"
+
+#: extensions/stats/stats.form.php:27
+msgid "Gallery Statistics"
+msgstr "Gallery Statistics"
+
+#: extensions/stats/stats.form.php:28
+msgid "Images Statistics"
+msgstr "Images Statistics"
+
+#: extensions/stats/stats.form.php:69
+msgid "Total Views"
+msgstr "Total Views"
+
+#: extensions/stats/stats.form.php:80
+msgid "Published"
+msgstr "Published"
+
+#: extensions/stats/stats.form.php:88
+msgid "Drafts"
+msgstr "Drafts"
+
+#: extensions/stats/stats.form.php:96
+msgid "Trash"
+msgstr "Trash"
+
+#: options/rbs_gallery_options_button.php:18
+msgid "Menu Options"
+msgstr "Menu Options"
+
+#: options/rbs_gallery_options_button.php:26
+msgid "Menu"
+msgstr "Menu"
+
+#: options/rbs_gallery_options_button.php:41
+msgid "Root Label"
+msgstr "Root Label"
+
+#: options/rbs_gallery_options_button.php:53
+msgid "Root Label Text"
+msgstr "Root Label Text"
+
+#: options/rbs_gallery_options_button.php:62
+msgid "Self Label"
+msgstr "Self Label"
+
+#: options/rbs_gallery_options_button.php:71
+msgid "Self Images"
+msgstr "Self Images"
+
+#: options/rbs_gallery_options_button.php:80
+msgid "Style"
+msgstr "Style"
+
+#: options/rbs_gallery_options_button.php:87
+#: options/rbs_gallery_options_button.php:119
+#: options/rbs_gallery_options_button.php:135
+msgid "Normal"
+msgstr "Normal"
+
+#: options/rbs_gallery_options_button.php:88
+msgid "flat"
+msgstr "flat"
+
+#: options/rbs_gallery_options_button.php:89
+msgid "3d"
+msgstr "3d"
+
+#: options/rbs_gallery_options_button.php:90
+#: options/rbs_gallery_options_view.php:127
+msgid "Border"
+msgstr "Border"
+
+#: options/rbs_gallery_options_button.php:96
+msgid "Color"
+msgstr "Color"
+
+#: options/rbs_gallery_options_button.php:103
+msgid "gray"
+msgstr "gray"
+
+#: options/rbs_gallery_options_button.php:104
+msgid "blue"
+msgstr "blue"
+
+#: options/rbs_gallery_options_button.php:105
+msgid "green"
+msgstr "green"
+
+#: options/rbs_gallery_options_button.php:106
+msgid "orange"
+msgstr "orange"
+
+#: options/rbs_gallery_options_button.php:107
+msgid "red"
+msgstr "red"
+
+#: options/rbs_gallery_options_button.php:108
+msgid "purple"
+msgstr "purple"
+
+#: options/rbs_gallery_options_button.php:113
+msgid "Rounds"
+msgstr "Rounds"
+
+#: options/rbs_gallery_options_button.php:120
+msgid "Rounded"
+msgstr "Rounded"
+
+#: options/rbs_gallery_options_button.php:121
+msgid "Pill"
+msgstr "Pill"
+
+#: options/rbs_gallery_options_button.php:122
+msgid "Circle "
+msgstr "Circle "
+
+#: options/rbs_gallery_options_button.php:127
+msgid "Size"
+msgstr "Size"
+
+#: options/rbs_gallery_options_button.php:133
+msgid "Jumbo"
+msgstr "Jumbo"
+
+#: options/rbs_gallery_options_button.php:134
+msgid "Large"
+msgstr "Large"
+
+#: options/rbs_gallery_options_button.php:136
+msgid "Small"
+msgstr "Small"
+
+#: options/rbs_gallery_options_button.php:137
+msgid "Tiny "
+msgstr "Tiny "
+
+#: options/rbs_gallery_options_button.php:142
+msgid "Left Padding"
+msgstr "Left Padding"
+
+#: options/rbs_gallery_options_button.php:153
+msgid "Bottom Padding"
+msgstr "Bottom Padding"
+
+#: options/rbs_gallery_options_copy.php:18
+msgid " Clone Gallery"
+msgstr " Clone Gallery"
+
+#: options/rbs_gallery_options_copy.php:27
+msgid "Source Gallery"
+msgstr "Source Gallery"
+
+#: options/rbs_gallery_options_copy.php:28
+msgid ""
+"When you select here to inherit settings from another gallery you'll not be "
+"able to edit some of the options. Gallery will copy all settings from "
+"selected source."
+msgstr ""
+"When you select here to inherit settings from another gallery you'll not be "
+"able to edit some of the options. Gallery will copy all settings from "
+"selected source."
+
+#: options/rbs_gallery_options_copy.php:29
+msgid ""
+"Very useful option for the webmasters who planning to create a lot of "
+"galleries. You don't have to configure it every time. Just setup styles of "
+"the gallery in one place and use the same options for another galleries on "
+"your website in another galleries.  Very fast, comfortable, advanced tool to "
+"speed up your workflow!"
+msgstr ""
+"Very useful option for the webmasters who planning to create a lot of "
+"galleries. You don't have to configure it every time. Just setup styles of "
+"the gallery in one place and use the same options for another galleries on "
+"your website in another galleries.  Very fast, comfortable, advanced tool to "
+"speed up your workflow!"
+
+#: options/rbs_gallery_options_guides.php:20
+msgid "Video Guides"
+msgstr "Video Guides"
+
+#: options/rbs_gallery_options_hover.php:18
+msgid "Hover Options"
+msgstr "Hover Options"
+
+#: options/rbs_gallery_options_hover.php:26
+msgid "Click Thumbnail"
+msgstr "Click Thumbnail"
+
+#: options/rbs_gallery_options_hover.php:32 rbs_gallery_media.php:73
+msgid "On"
+msgstr "On"
+
+#: options/rbs_gallery_options_hover.php:33
+#: options/rbs_gallery_options_hover.php:47 rbs_gallery_media.php:74
+msgid "Off"
+msgstr "Off"
+
+#: options/rbs_gallery_options_hover.php:40
+msgid "Hover Mode"
+msgstr "Hover Mode"
+
+#: options/rbs_gallery_options_hover.php:48
+msgid "Options"
+msgstr "Options"
+
+#: options/rbs_gallery_options_hover.php:49
+msgid "Template"
+msgstr "Template"
+
+#: options/rbs_gallery_options_hover.php:62
+#: options/rbs_gallery_options_lightbox.php:69
+#: options/rbs_gallery_options_loading.php:79
+#: options/rbs_gallery_options_polaroid.php:53
+msgid "Bg Color"
+msgstr "Bg Color"
+
+#: options/rbs_gallery_options_hover.php:76 rbs_gallery_media.php:118
+msgid "Effect"
+msgstr "Effect"
+
+#: options/rbs_gallery_options_hover.php:82 rbs_gallery_media.php:95
+msgid "push-up"
+msgstr "push-up"
+
+#: options/rbs_gallery_options_hover.php:83 rbs_gallery_media.php:96
+msgid "push-down"
+msgstr "push-down"
+
+#: options/rbs_gallery_options_hover.php:84 rbs_gallery_media.php:97
+msgid "push-up-100%"
+msgstr "push-up-100%"
+
+#: options/rbs_gallery_options_hover.php:85 rbs_gallery_media.php:98
+msgid "push-down-100%"
+msgstr "push-down-100%"
+
+#: options/rbs_gallery_options_hover.php:86 rbs_gallery_media.php:99
+msgid "reveal-top"
+msgstr "reveal-top"
+
+#: options/rbs_gallery_options_hover.php:87 rbs_gallery_media.php:100
+msgid "reveal-bottom"
+msgstr "reveal-bottom"
+
+#: options/rbs_gallery_options_hover.php:88 rbs_gallery_media.php:101
+msgid "reveal-top-100%"
+msgstr "reveal-top-100%"
+
+#: options/rbs_gallery_options_hover.php:89 rbs_gallery_media.php:102
+msgid "reveal-bottom-100%"
+msgstr "reveal-bottom-100%"
+
+#: options/rbs_gallery_options_hover.php:90 rbs_gallery_media.php:103
+msgid "direction-aware"
+msgstr "direction-aware"
+
+#: options/rbs_gallery_options_hover.php:91 rbs_gallery_media.php:104
+msgid "direction-aware-fade"
+msgstr "direction-aware-fade"
+
+#: options/rbs_gallery_options_hover.php:92 rbs_gallery_media.php:105
+msgid "direction-right"
+msgstr "direction-right"
+
+#: options/rbs_gallery_options_hover.php:93 rbs_gallery_media.php:106
+msgid "direction-left"
+msgstr "direction-left"
+
+#: options/rbs_gallery_options_hover.php:94 rbs_gallery_media.php:107
+msgid "direction-top"
+msgstr "direction-top"
+
+#: options/rbs_gallery_options_hover.php:95 rbs_gallery_media.php:108
+msgid "direction-bottom"
+msgstr "direction-bottom"
+
+#: options/rbs_gallery_options_hover.php:96 rbs_gallery_media.php:109
+msgid "fade"
+msgstr "fade"
+
+#: options/rbs_gallery_options_hover.php:103
+msgid "Show Title"
+msgstr "Show Title"
+
+#: options/rbs_gallery_options_hover.php:119
+msgid "Link Button"
+msgstr "Link Button"
+
+#: options/rbs_gallery_options_hover.php:120
+msgid "Zoom Button"
+msgstr "Zoom Button"
+
+#: options/rbs_gallery_options_hover.php:121
+#: options/rbs_gallery_options_lightbox.php:49
+msgid "Description"
+msgstr "Description"
+
+#: options/rbs_gallery_options_hover.php:130
+msgid "Link Icon"
+msgstr "Link Icon"
+
+#: options/rbs_gallery_options_hover.php:150
+msgid "Zoom Icon"
+msgstr "Zoom Icon"
+
+#: options/rbs_gallery_options_hover.php:173
+msgid "Show Description"
+msgstr "Show Description"
+
+#: options/rbs_gallery_options_hover.php:194
+msgid "Description Template"
+msgstr "Description Template"
+
+#: options/rbs_gallery_options_images.php:18
+msgid "Images Manager"
+msgstr "Images Manager"
+
+#: options/rbs_gallery_options_images.php:27
+#: options/rbs_gallery_options_images.php:29
+msgid "Manage Images"
+msgstr "Manage Images"
+
+#: options/rbs_gallery_options_images.php:28
+msgid ""
+"Click on Manage Images button to open Images Manager where you can upload, "
+"edit or delete images from gallery. Also here you can edit settings of every "
+"particular image, define alt, links, description text"
+msgstr ""
+"Click on Manage Images button to open Images Manager where you can upload, "
+"edit or delete images from gallery. Also here you can edit settings of every "
+"particular image, define alt, links, description text"
+
+#: options/rbs_gallery_options_info.php:18
+#: options/rbs_gallery_options_info.php:31
+#: options/rbs_gallery_options_infowide.php:18 rbs_gallery_about.php:63
+#: rbs_gallery_about.php:64 rbs_gallery_list.php:29 rbs_gallery_topblock.php:20
+msgid "Get Pro version"
+msgstr "Get Pro version"
+
+#: options/rbs_gallery_options_info.php:29
+#: options/rbs_gallery_options_infowide.php:28 rbs_gallery_topblock.php:21
+msgid ""
+"with PRO version you get more advanced functionality and even more "
+"flexibility in settings"
+msgstr ""
+"with PRO version you get more advanced functionality and even more "
+"flexibility in settings"
+
+#: options/rbs_gallery_options_lightbox.php:18
+msgid "Lightbox Options"
+msgstr "Lightbox Options"
+
+#: options/rbs_gallery_options_lightbox.php:42
+msgid "Text Source"
+msgstr "Text Source"
+
+#: options/rbs_gallery_options_lightbox.php:50
+#: options/rbs_gallery_options_polaroid.php:48
+msgid "Caption"
+msgstr "Caption"
+
+#: options/rbs_gallery_options_lightbox.php:58
+msgid "Text Color"
+msgstr "Text Color"
+
+#: options/rbs_gallery_options_lightbox.php:82
+msgid "Deep Linking"
+msgstr "Deep Linking"
+
+#: options/rbs_gallery_options_lightbox.php:85
+msgid "This option enable linking for every particular image "
+msgstr "This option enable linking for every particular image "
+
+#: options/rbs_gallery_options_lightbox.php:91
+msgid " Images Counter"
+msgstr " Images Counter"
+
+#: options/rbs_gallery_options_lightbox.php:100
+msgid "Close Icon"
+msgstr "Close Icon"
+
+#: options/rbs_gallery_options_lightbox.php:109
+msgid "Arrow Icon"
+msgstr "Arrow Icon"
+
+#: options/rbs_gallery_options_lightbox.php:118
+msgid "Swipe"
+msgstr "Swipe"
+
+#: options/rbs_gallery_options_lightbox.php:127
+msgid "Social Buttons"
+msgstr "Social Buttons"
+
+#: options/rbs_gallery_options_loading.php:18
+#: options/rbs_gallery_options_loading.php:35
+msgid "Loading Options"
+msgstr "Loading Options"
+
+#: options/rbs_gallery_options_loading.php:26
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+#: options/rbs_gallery_options_loading.php:36
+msgid "Loading Text"
+msgstr "Loading Text"
+
+#: options/rbs_gallery_options_loading.php:44
+msgid "Images Amount"
+msgstr "Images Amount"
+
+#: options/rbs_gallery_options_loading.php:53
+msgid "Load More Amount"
+msgstr "Load More Amount"
+
+#: options/rbs_gallery_options_loading.php:63
+msgid "Wait Thumbs Load"
+msgstr "Wait Thumbs Load"
+
+#: options/rbs_gallery_options_loading.php:71
+msgid "Wait No Matter What"
+msgstr "Wait No Matter What"
+
+#: options/rbs_gallery_options_loading.php:91
+msgid "Loading Label"
+msgstr "Loading Label"
+
+#: options/rbs_gallery_options_loading.php:101
+msgid "Load More Label"
+msgstr "Load More Label"
+
+#: options/rbs_gallery_options_loading.php:108
+msgid "No More Entries Label"
+msgstr "No More Entries Label"
+
+#: options/rbs_gallery_options_polaroid.php:18
+msgid "Polaroid Style Options"
+msgstr "Polaroid Style Options"
+
+#: options/rbs_gallery_options_polaroid.php:26
+msgid "Polaroid Style"
+msgstr "Polaroid Style"
+
+#: options/rbs_gallery_options_polaroid.php:40
+msgid "Source"
+msgstr "Source"
+
+#: options/rbs_gallery_options_polaroid.php:47
+msgid "Desc"
+msgstr "Desc"
+
+#: options/rbs_gallery_options_polaroid.php:64
+#: options/rbs_gallery_options_size.php:40
+msgid "Align"
+msgstr "Align"
+
+#: options/rbs_gallery_options_polaroid.php:70
+msgid "left"
+msgstr "left"
+
+#: options/rbs_gallery_options_polaroid.php:71
+msgid "right"
+msgstr "right"
+
+#: options/rbs_gallery_options_polaroid.php:72
+msgid "center"
+msgstr "center"
+
+#: options/rbs_gallery_options_shortcode.php:18
+msgid "Gallery Shortcode"
+msgstr "Gallery Shortcode"
+
+#: options/rbs_gallery_options_shortcode.php:30
+msgid "use this shortcode to insert this gallery into page, post or widget"
+msgstr "use this shortcode to insert this gallery into page, post or widget"
+
+#: options/rbs_gallery_options_size.php:18
+msgid "Gallery Size Options"
+msgstr "Gallery Size Options"
+
+#: options/rbs_gallery_options_size.php:30
+msgid "Width "
+msgstr "Width "
+
+#: options/rbs_gallery_options_size.php:53
+msgid "Padding"
+msgstr "Padding"
+
+#: options/rbs_gallery_options_size.php:62
+#: options/rbs_gallery_options_size.php:70
+msgid "Thumbs Options"
+msgstr "Thumbs Options"
+
+#: options/rbs_gallery_options_size.php:71
+msgid "Size Options"
+msgstr "Size Options"
+
+#: options/rbs_gallery_options_size.php:78
+msgid "Custom Ratio"
+msgstr "Custom Ratio"
+
+#: options/rbs_gallery_options_size.php:89
+msgid "Colums "
+msgstr "Colums "
+
+#: options/rbs_gallery_options_text.php:18
+msgid "Text Addons"
+msgstr "Text Addons"
+
+#: options/rbs_gallery_options_text.php:27
+#: options/rbs_gallery_options_text.php:35
+msgid "Pre Text"
+msgstr "Pre Text"
+
+#: options/rbs_gallery_options_text.php:39
+#: options/rbs_gallery_options_text.php:47
+msgid "After Text"
+msgstr "After Text"
+
+#: options/rbs_gallery_options_tools.php:17
+msgid "Gallery Tools"
+msgstr "Gallery Tools"
+
+#: options/rbs_gallery_options_tools.php:37
+msgid "Posts List"
+msgstr "Posts List"
+
+#: options/rbs_gallery_options_tools.php:39
+msgid "Here you can create and customize new post with gallery inside it"
+msgstr "Here you can create and customize new post with gallery inside it"
+
+#: options/rbs_gallery_options_tools.php:42
+msgid "Gallery Views"
+msgstr "Gallery Views"
+
+#: options/rbs_gallery_options_tools.php:44
+msgid "Are you sure that you wish to reset statistics?"
+msgstr "Are you sure that you wish to reset statistics?"
+
+#: options/rbs_gallery_options_tools.php:44
+msgid "Success: Statistic successfully reset!"
+msgstr "Success: Statistic successfully reset!"
+
+#: options/rbs_gallery_options_tools.php:44
+msgid "Reset"
+msgstr "Reset"
+
+#: options/rbs_gallery_options_view.php:18
+msgid "Thumbs View Options"
+msgstr "Thumbs View Options"
+
+#: options/rbs_gallery_options_view.php:28
+msgid "Radius"
+msgstr "Radius"
+
+#: options/rbs_gallery_options_view.php:41
+msgid "Hor. Space"
+msgstr "Hor. Space"
+
+#: options/rbs_gallery_options_view.php:51
+msgid "Ver. Space"
+msgstr "Ver. Space"
+
+#: options/rbs_gallery_options_view.php:64
+msgid "Shadow"
+msgstr "Shadow"
+
+#: options/rbs_gallery_options_view.php:74
+#: options/rbs_gallery_options_view.php:81
+#: options/rbs_gallery_options_view.php:106
+msgid "Shadow Options"
+msgstr "Shadow Options"
+
+#: options/rbs_gallery_options_view.php:82
+msgid "Hover Shadow Options"
+msgstr "Hover Shadow Options"
+
+#: options/rbs_gallery_options_view.php:92
+msgid "Hover Shadow"
+msgstr "Hover Shadow"
+
+#: options/rbs_gallery_options_view.php:137
+#: options/rbs_gallery_options_view.php:144
+#: options/rbs_gallery_options_view.php:171
+msgid "Border Options"
+msgstr "Border Options"
+
+#: options/rbs_gallery_options_view.php:145
+msgid "Hover Border Options"
+msgstr "Hover Border Options"
+
+#: options/rbs_gallery_options_view.php:156
+msgid "Hover Border"
+msgstr "Hover Border"
+
+#: rbs_gallery_about.php:22
+msgid "Robo Gallery implemented by RoboSoft Team"
+msgstr "Robo Gallery implemented by RoboSoft Team"
+
+#: rbs_gallery_about.php:25
+msgid "More details about Robo Gallery you can see on our website"
+msgstr "More details about Robo Gallery you can see on our website"
+
+#: rbs_gallery_about.php:31
+msgid "Robo Gallery Pro Features"
+msgstr "Robo Gallery Pro Features"
+
+#: rbs_gallery_about.php:34
+msgid "Unlimited amount of the galleries"
+msgstr "Unlimited amount of the galleries"
+
+#: rbs_gallery_about.php:35
+msgid "Unlimited amount of images in galleries"
+msgstr "Unlimited amount of images in galleries"
+
+#: rbs_gallery_about.php:38
+msgid "Custom hover style for border"
+msgstr "Custom hover style for border"
+
+#: rbs_gallery_about.php:39
+msgid "Custom hover style for shadow"
+msgstr "Custom hover style for shadow"
+
+#: rbs_gallery_about.php:42
+msgid "Unlimited multi-categories"
+msgstr "Unlimited multi-categories"
+
+#: rbs_gallery_about.php:43
+msgid "High quality thumbnails"
+msgstr "High quality thumbnails"
+
+#: rbs_gallery_about.php:46
+msgid "Gallery widget"
+msgstr "Gallery widget"
+
+#: rbs_gallery_about.php:47
+msgid "Random ordering"
+msgstr "Random ordering"
+
+#: rbs_gallery_about.php:50
+msgid "Gallery menu colors"
+msgstr "Gallery menu colors"
+
+#: rbs_gallery_about.php:51
+msgid "Gallery menu styles"
+msgstr "Gallery menu styles"
+
+#: rbs_gallery_about.php:54
+msgid "Custom images ordering"
+msgstr "Custom images ordering"
+
+#: rbs_gallery_about.php:55
+msgid "Customizable hover style"
+msgstr "Customizable hover style"
+
+#: rbs_gallery_about.php:58
+msgid "Custom hover background color"
+msgstr "Custom hover background color"
+
+#: rbs_gallery_about.php:59
+msgid "Advanced images description settings"
+msgstr "Advanced images description settings"
+
+#: rbs_gallery_about.php:69 rbs_gallery_settings.php:105
+msgid "All Rights Reserved"
+msgstr "All Rights Reserved"
+
+#: rbs_gallery_button.php:25 rbs_gallery_media.php:43
+msgid "Robo Gallery"
+msgstr "Robo Gallery"
+
+#: rbs_gallery_button.php:27
+msgid "Insert"
+msgstr "Insert"
+
+#: rbs_gallery_button.php:33
+msgid "Add Robo Gallery"
+msgstr "Add Robo Gallery"
+
+#: rbs_gallery_button.php:44
+msgid "Select gallery"
+msgstr "Select gallery"
+
+#: rbs_gallery_button.php:45 rbs_gallery_widget.php:79
+msgid "Configure it in"
+msgstr "Configure it in"
+
+#: rbs_gallery_button.php:45 rbs_gallery_widget.php:81
+msgid "Robo Gallery plugin"
+msgstr "Robo Gallery plugin"
+
+#: rbs_gallery_init.php:19
+msgid "Available in"
+msgstr "Available in"
+
+#: rbs_gallery_init.php:75
+msgid "Galleries List"
+msgstr "Galleries List"
+
+#: rbs_gallery_init.php:76 rbs_gallery_init.php:77
+msgid "Add Gallery"
+msgstr "Add Gallery"
+
+#: rbs_gallery_init.php:78
+msgid "Edit Gallery"
+msgstr "Edit Gallery"
+
+#: rbs_gallery_list.php:27
+msgid "Get Robo Gallery Pro version"
+msgstr "Get Robo Gallery Pro version"
+
+#: rbs_gallery_list.php:31
+msgid ""
+"You can create only 3 galleries. Update to PRO to get unlimited galleries"
+msgstr ""
+"You can create only 3 galleries. Update to PRO to get unlimited galleries"
+
+#: rbs_gallery_list.php:65
+msgid "Views"
+msgstr "Views"
+
+#: rbs_gallery_list.php:66
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: rbs_gallery_media.php:58
+msgid "Column"
+msgstr "Column"
+
+#: rbs_gallery_media.php:65
+msgid "Link"
+msgstr "Link"
+
+#: rbs_gallery_media.php:78
+msgid "Blank Link"
+msgstr "Blank Link"
+
+#: rbs_gallery_media.php:86
+msgid "Video"
+msgstr "Video"
+
+#: rbs_gallery_media.php:110
+msgid "inherit"
+msgstr "inherit"
+
+#: rbs_gallery_settings.php:17
+msgid "Compatibility Settings"
+msgstr "Compatibility Settings"
+
+#: rbs_gallery_settings.php:26
+msgid "Categories Manager"
+msgstr "Categories Manager"
+
+#: rbs_gallery_settings.php:29 rbs_gallery_settings.php:30
+#: rbs_gallery_settings.php:31 rbs_gallery_settings.php:87
+#: rbs_gallery_settings.php:88
+msgid "Show"
+msgstr "Show"
+
+#: rbs_gallery_settings.php:33 rbs_gallery_settings.php:34
+#: rbs_gallery_settings.php:90 rbs_gallery_settings.php:91
+msgid "Hide"
+msgstr "Hide"
+
+#: rbs_gallery_settings.php:40 rbs_gallery_settings.php:43
+msgid "jQuery Version"
+msgstr "jQuery Version"
+
+#: rbs_gallery_settings.php:44 rbs_gallery_settings.php:45
+msgid "Default"
+msgstr "Default"
+
+#: rbs_gallery_settings.php:47 rbs_gallery_settings.php:48
+msgid "Alternative"
+msgstr "Alternative"
+
+#: rbs_gallery_settings.php:52 rbs_gallery_settings.php:53
+msgid "Forced include"
+msgstr "Forced include"
+
+#: rbs_gallery_settings.php:60 rbs_gallery_settings.php:63
+msgid "Switch Style"
+msgstr "Switch Style"
+
+#: rbs_gallery_settings.php:64 rbs_gallery_settings.php:65
+msgid "Modern"
+msgstr "Modern"
+
+#: rbs_gallery_settings.php:67 rbs_gallery_settings.php:68
+msgid "Classic"
+msgstr "Classic"
+
+#: rbs_gallery_settings.php:74
+msgid "Size Calculations Delay"
+msgstr "Size Calculations Delay"
+
+#: rbs_gallery_settings.php:80
+msgid "Create Post Settings"
+msgstr "Create Post Settings"
+
+#: rbs_gallery_settings.php:83
+msgid "Text Block"
+msgstr "Text Block"
+
+#: rbs_gallery_settings.php:86
+msgid "Show Text"
+msgstr "Show Text"
+
+#: rbs_gallery_settings.php:99
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: rbs_gallery_topblock.php:26
+msgid "Do You wish to get PRO version for FREE ?"
+msgstr "Do You wish to get PRO version for FREE ?"
+
+#: rbs_gallery_topblock.php:31
+msgid "Do You wish to get PRO version for translate?"
+msgstr "Do You wish to get PRO version for translate?"
+
+#: rbs_gallery_widget.php:19
+msgid "Robo Gallery Widget"
+msgstr "Robo Gallery Widget"
+
+#: rbs_gallery_widget.php:20
+msgid "Publish gallery on your website."
+msgstr "Publish gallery on your website."
+
+#: rbs_gallery_widget.php:35 rbs_gallery_widget.php:67
+msgid "This widget available in Pro version"
+msgstr "This widget available in Pro version"
+
+#: rbs_gallery_widget.php:44
+msgid "New gallery"
+msgstr "New gallery"
+
+#: rbs_gallery_widget.php:76
+msgid "Gallery:"
+msgstr "Gallery:"
+
+#~ msgid "Show Menu"
+#~ msgstr "Show Menu"
+
+#~ msgid "Show Root"
+#~ msgstr "Show Root"
+
+#~ msgid "Show self"
+#~ msgstr "Show self"
+
+#~ msgid "normal"
+#~ msgstr "Normal"
+
+#~ msgid "border"
+#~ msgstr "border"
+
+#~ msgid "Border options"
+#~ msgstr "Border options"
+
+#~ msgid "Shadow options"
+#~ msgstr "Shadow options"
+
+#~ msgid "Thumbs options"
+#~ msgstr "Thumbs options"
+
+#~ msgid "Loading options"
+#~ msgstr "Loading options"
+
+#~ msgid "Title:"
+#~ msgstr "Title:"
+
+#~ msgid "Get PRO Version"
+#~ msgstr "Get PRO Version"
+
+#~ msgid "Get PRO version"
+#~ msgstr "Get PRO version"

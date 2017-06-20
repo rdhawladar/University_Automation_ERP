@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2016-01-08 10:36+0400\n"
+"PO-Revision-Date: 2016-01-08 10:36+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\photo-"
+"gallery\\frontend\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\photo-"
+"gallery\\framework\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:160
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:137
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:153
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:161
+msgid "There is no theme selected or the theme was deleted."
+msgstr "அங்கு தேர்ந்தெடுக்கப்பட்ட தீம் அல்லது தீம் நீக்கப்பட்டது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:167
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:201
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:112
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:176
+msgid "There is no album selected or the album was deleted."
+msgstr "அங்கு தேர்ந்தெடுக்கப்பட்ட ஆல்பம் அல்லது ஆல்பம் நீக்கப்பட்டது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:189
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:164
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:79
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:172
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:169
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:174
+msgid "There are no images in this gallery."
+msgstr "இந்த தொகுப்பு இல்லை படங்கள் உள்ளன."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:895
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:882
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:454
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:494
+msgid "Back"
+msgstr "மீண்டும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:918
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:893
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:510
+msgid "Album is empty."
+msgstr "ஆல்பம் காலியாக உள்ளது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1036
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1024
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:583
+msgid "There are no images matching your search."
+msgstr "உங்கள் தேடல் பொருந்தும் இல்லை படங்கள் உள்ளன."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1041
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1029
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_masonry_preview.php:588
+msgid "Gallery is empty."
+msgstr "தொகுப்பு காலியாக உள்ளது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1097
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_compact_preview.php:1147
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1077
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1126
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:543
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:921
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2820
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1655
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:454
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:397
+msgid "Play"
+msgstr "விளையாட்டு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:994
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1158
+msgid "More"
+msgstr "மேலும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewAlbum_extended_preview.php:1153
+msgid "Hide"
+msgstr "மறை"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:74
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:163
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails.php:164
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_masonry.php:161
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewThumbnails_mosaic.php:166
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "அங்கு தேர்ந்தெடுக்கப்பட்ட தொகுப்பு ஆகும் அல்லது கேலரியில் நீக்கப்பட்டது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:547
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:933
+msgid "Show comments"
+msgstr "கருத்துக்கள்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:553
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:554
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:941
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:942
+msgid "Share on Facebook"
+msgstr "Facebook இல் பகிர்ந்து"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:560
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:561
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:948
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:949
+msgid "Share on Twitter"
+msgstr "Twitter இல் பகிர்."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:567
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:568
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:955
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:956
+msgid "Share on Google+"
+msgstr "Google+ இல் பகிரவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:574
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:575
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:962
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:963
+msgid "Share on Pinterest"
+msgstr "Pinterest மீது பகிர்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:581
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewBlog_style.php:582
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:969
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:970
+msgid "Share on Tumblr"
+msgstr "Tumblr மீது பகிர்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:531
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewCarousel.php:537
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2814
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2829
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1646
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewSlideshow.php:1664
+msgid "Pause"
+msgstr "இடைநிறுத்தி"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:900
+msgid "The image has been deleted."
+msgstr "படத்தை நீக்கப்பட்டது"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:925
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2089
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2649
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2745
+msgid "Maximize"
+msgstr "பெருக்குங்கள்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:929
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2091
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2747
+msgid "Fullscreen"
+msgstr "முழுத்திரை"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:931
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2484
+msgid "Show info"
+msgstr "காண்பிக்கவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:935
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2495
+msgid "Show rating"
+msgstr "மதிப்பீடு காட்டு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:977
+msgid "Open image in original size."
+msgstr "அசல் அளவு படத்தை திற"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:998
+msgid "Download original image"
+msgstr "அசல் படத்தை பதிவிறக்க"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1108
+msgid "Hits: "
+msgstr "ஹிட்ஸ்:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1119
+msgid "Rated."
+msgstr "மதிப்பிடப்பட்டது."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1123
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1140
+msgid "Not rated yet."
+msgstr "இன்னும் மதிப்பிடப்படவில்லை."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1126
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1162
+msgid "Votes: "
+msgstr "வாக்குகள்: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1160
+msgid "Cancel your rating."
+msgstr "உங்கள் மதிப்பீடு ரத்து. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1162
+msgid "You have already rated."
+msgstr "நீங்கள் ஏற்கனவே மதிப்பிடப்பட்டது. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1261
+msgid "Error. Incorrect Verification Code."
+msgstr "பிழை. தவறான சரிபார்ப்பு குறியீடு. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1268
+msgid "This is not a valid email address."
+msgstr "இந்த ஒரு சரியான மின்னஞ்சல் முகவரி அல்ல."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1276
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2311
+msgid "Hide Comments"
+msgstr "மறை"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1280
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Name"
+msgstr "பெயர்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1286
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1293
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1315
+msgid "Comment"
+msgstr "கருத்து"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1298
+msgid "Verification Code"
+msgstr "அதிகாரமளித்தல் குறியீடு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1321
+msgid "Submit"
+msgstr "சமர்ப்பிக்கவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1322
+msgid "Your comment is awaiting moderation"
+msgstr "உங்கள் கருத்து மிதமான காத்திருக்கிறது "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:1351
+msgid "Delete Comment"
+msgstr "நீக்கு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2261
+msgid "Show Comments"
+msgstr "கருத்துக்களை காட்டு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2480
+msgid "Hide info"
+msgstr "தகவல் மறைக்க"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2491
+msgid "Hide rating"
+msgstr "மறை மதிப்பீடு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2686
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2895
+msgid "Restore"
+msgstr "மீட்டெடு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\frontend/views/BWGViewGalleryBox.php:2800
+msgid "Exit Fullscreen"
+msgstr "முழுத்திரை விட்டு வெளியேற"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:46
+msgid "Item Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:52
+msgid "Error. Please install plugin again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:58
+msgid "Item Succesfully Deleted."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:64
+msgid "You can't delete default theme"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:70
+msgid "Items Succesfully Deleted."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:76
+msgid "You must select at least one item."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:82
+msgid "The item is successfully set as default."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:88
+msgid "Options Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:94
+msgid "Item Succesfully Published."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:100
+msgid "Items Succesfully Published."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:106
+msgid "Item Succesfully Unpublished."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:112
+msgid "Items Succesfully Unpublished."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:118
+msgid "Ordering Succesfully Saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:124
+msgid "A term with the name provided already exists."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:130
+msgid "Name field is required."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:136
+msgid "The slug must be unique."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:142
+msgid "Changes must be saved."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:188
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:362
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:725
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:781
+msgid "Search"
+msgstr "தேடல்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:189
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:363
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:722
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:784
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:315
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:465
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:545
+msgid "of"
+msgstr "ஒரு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:436
+msgid "item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:516
+msgid " item(s)"
+msgstr "உருப்படி"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:521
+msgid "First"
+msgstr "முதல்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:522
+msgid "Previous"
+msgstr "முந்தைய"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:523
+msgid "Next"
+msgstr "அடுத்த"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:524
+msgid "Last"
+msgstr "கடந்த"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:542
+msgid "Go to the first page"
+msgstr "முதல் பக்கத்திற்கு செல்லவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:543
+msgid "Go to the previous page"
+msgstr "முந்தைய பக்கத்திற்கு செல்லவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:549
+msgid "Go to the next page"
+msgstr "அடுத்த பக்கத்திற்கு செல்லவும்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:550
+msgid "Go to the last page"
+msgstr "கடந்த பக்கம் சென்று"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:562
+msgid "Load More..."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:846
+msgid "Order by: "
+msgstr "மூலம் ஆர்டர்"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:848
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:849
+msgid "Filename"
+msgstr "கோப்பின் பெயர்,"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:850
+msgid "Size"
+msgstr "அளவு"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery\framework/WDWLibrary.php:851
+msgid "Random"
+msgstr "ரேண்டம்"
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "கார் மேம்படுத்தல் இடைவெளி சொருகி புகைப்பட தொகுப்பு."

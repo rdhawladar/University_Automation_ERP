@@ -1,0 +1,29 @@
+.collection-settings.gallery-settings{
+	display: none
+}
+
+.pw-gallery.rbs_block{
+	text-align: center;
+}
+
+.cmb-type-pw-gallery p.cmb2-metabox-description{
+	text-align: center;
+}
+
+.cmb-type-pw-gallery{
+	padding: 0 !important;
+	margin: 20px 0 0 0 !important;
+}
+
+table.compat-attachment-fields tr.compat-field-rsg_gallery_line,
+table.compat-attachment-fields tr.compat-field-rsg_gallery_col,
+table.compat-attachment-fields tr.compat-field-rsg_gallery_video_link,
+table.compat-attachment-fields tr.compat-field-rsg_gallery_type_link,
+table.compat-attachment-fields tr.compat-field-rsg_gallery_link,
+table.compat-attachment-fields tr.compat-field-rsg_gallery_effect{
+	display:block !important;
+}
+
+#side-sortables .cmb-type-pw-gallery .cmb2-metabox-description{
+	padding-bottom: 5px;
+}

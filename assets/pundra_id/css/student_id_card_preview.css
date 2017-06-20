@@ -1,0 +1,79 @@
+.bg{
+	width: 50%;
+        background: #ededed;
+	color: #333;
+	font-family: arial;
+	border: 1px solid #111;
+	margin-top: 20px;
+        word-spacing: 0.001em;
+        overflow: hidden;
+}
+.pundra_id_logo{
+	padding-top: 10px;
+}
+
+.header_content{
+	color: purple;
+/*        font-size: 20px;*/
+        
+}
+.pundra_id_info{
+	background:#00345C;
+	color:#fff;
+        height: 37px;
+	font-weight:bold;
+}
+
+.bottom{
+    background:#58D3F7;
+    height: 15px; 
+    color: #58D3F7;
+    
+}
+
+.register_signature{
+    height: 25px;
+    float: right;
+}
+
+.student_image{
+	padding-top:10px;
+}
+.student_info{
+	padding:7px;
+}
+.info_margin{
+	border:1px dotted;
+}
+table{
+	width:100%;
+}
+tr,th{
+	width:30%;
+}
+tr,td{
+	width: 100%;
+}
+/*@media print {
+    #whole_page {
+        background-color: white;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 15px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+}*/
+/*.sign{
+	background:#ededed;
+	width:20%;
+	height:20px;
+        float: right;
+}*/
+/*.int_address{
+	
+}*/

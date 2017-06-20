@@ -1,0 +1,501 @@
+/*!
+ * jQuery UI CSS Framework 1.8.21
+ *
+ * Copyright 2012, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ */
+
+/* Layout helpers
+----------------------------------*/
+
+.ui-helper-hidden-accessible {
+	position: absolute !important;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px,1px,1px,1px);
+}
+
+.ui-helper-clearfix {
+	zoom: 1;
+}
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay {
+	position: absolute;
+}
+.ui-accordion {
+	width: 100%;
+}
+.ui-accordion .ui-accordion-header {
+	margin-top: 1px;
+	zoom: 1;
+}
+.ui-accordion .ui-accordion-li-fix {
+	display: inline;
+}
+.ui-accordion .ui-accordion-header-active {
+	border-bottom: 0 !important;
+}
+.ui-accordion .ui-accordion-header a {
+	display: block;
+	font-size: 1em;
+	padding: .5em .5em .5em .7em;
+}
+.ui-accordion-icons .ui-accordion-header a {
+	padding-left: 2.2em;
+}
+.ui-accordion .ui-accordion-header .ui-icon {
+	position: absolute;
+	left: .5em;
+	top: 50%;
+	margin-top: -8px;
+}
+.ui-accordion .ui-accordion-content {
+	margin-top: -2px;
+	position: relative;
+	top: 1px;
+	margin-bottom: 2px;
+	overflow: auto;
+	display: none;
+	zoom: 1;
+}
+.ui-accordion .ui-accordion-content-active {
+	display: block;
+}
+.ui-button, .ui-dialog-buttonset .ui-button {
+	font-weight: 500;
+	padding: 0;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	text-decoration: none !important;
+	zoom: 1;
+	overflow: visible;
+	background: #F0F0F0;
+	color: #777;
+	border-radius: 2px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	background: #CFCFCF;
+	background-image: -moz-linear-gradient(100% 100% 90deg, #CFCFCF, #EFEFEF);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 90%, from(#EFEFEF), to(#CFCFCF));
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#efefef, endColorstr=#cfcfcf";
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr=#efefef, endColorstr=#cfcfcf);
+	border: 1px solid #BBB;
+	color: #676767;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+} /* the overflow property removes extra width in IE */
+.ui-button:focus, 
+.ui-button:hover {
+	border-color: #999;
+	background-image: -moz-linear-gradient(100% 100% 90deg, #CFCFCF, #cfcfcf);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 90%, from(#cfcfcf), to(#CFCFCF));
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#cfcfcf, endColorstr=#cfcfcf";
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr=#cfcfcf, endColorstr=#cfcfcf);
+	color: #373737;
+}
+/*button text element */
+.ui-button .ui-button-text {
+	line-height: 1.4;
+}
+
+/* workarounds */
+#ui-datepicker-div {
+	background: #F9F9F9;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+	border: 1px solid #ccc;	
+	min-width: 190px;
+	padding: 9px 12px;
+}
+.ui-datepicker .ui-datepicker-header {
+	padding:0;
+}
+.ui-datepicker .ui-datepicker-prev, 
+.ui-datepicker .ui-datepicker-next {
+	border: 0;
+	background: transparent;
+	cursor: pointer;
+}
+.ui-datepicker .ui-datepicker-prev-hover, 
+.ui-datepicker .ui-datepicker-next-hover {
+	top: 2px;
+	border: 0;
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+	left:2px;
+}
+.ui-datepicker .ui-datepicker-next-hover {
+	right:2px;
+}
+.ui-datepicker .ui-datepicker-title {
+	font-weight: 500;
+	font-size: 105%;
+}
+
+.ui-datepicker thead{
+  word-break: break-all;
+}
+.ui-datepicker th {
+	font-weight: 400;
+	color: #666;
+	font-size: .9em;
+	padding: 9px 0 6px;
+}
+.ui-datepicker td {
+	padding: 0 0 2px 2px;
+}
+
+.ui-datepicker tbody tr,
+.ui-datepicker tbody tr:nth-child(even) {
+  background: transparent;
+}
+
+.ui-datepicker tbody tr:first-child td:first-child a {
+	-moz-border-radius: 3px 0 0 0;
+	-webkit-border-radius: 3px 0 0 0;
+	border-radius: 3px 0 0 0;
+}
+.ui-datepicker tbody tr:first-child td:last-child a {
+	-moz-border-radius: 0 3px 0 0;
+	-webkit-border-radius: 0 3px 0 0;
+	border-radius: 0 3px 0 0;
+}
+.ui-datepicker tbody tr:last-child td:first-child a {
+	-moz-border-radius: 0 0 0 3px;
+	-webkit-border-radius: 0 0 0 3px;
+	border-radius: 0 0 0 3px;
+}
+.ui-datepicker tbody tr:last-child td:last-child a {
+	-moz-border-radius: 0 0 3px 0;
+	-webkit-border-radius: 0 0 3px 0;
+	border-radius: 0 0 3px 0;
+}
+.ui-datepicker td span, 
+.ui-datepicker td a {
+	padding: .1em .2em 0  0;
+	height: 31px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;	
+}
+#ui-datepicker-div.ui-datepicker td span, 
+#ui-datepicker-div.ui-datepicker td a {
+	height: 25px;
+	font-size: 100%;
+	text-align: center;
+	padding: 0;
+	line-height: 1.7;
+}
+#datepicker .ui-datepicker.ui-widget-content {
+	background: transparent;
+	border:0;
+	box-shadow: none;
+}
+
+
+.ui-dialog, .ui-dialog.ui-corner-all {
+	padding: 0;
+	width: 300px;
+	overflow: hidden;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	background: #fff;
+	-moz-box-shadow: 0 6px 14px rgba(0, 0, 0, .7);
+	-webkit-box-shadow: 0 6px 14px rgba(0, 0, 0, .7);
+	box-shadow: 0 6px 14px rgba(0, 0, 0, .7);
+}
+.ui-dialog .ui-dialog-titlebar {
+	padding: .5em .9em;
+	font-size: 120%;
+	font-weight: 600;
+}
+.ui-dialog .ui-dialog-title {
+	margin: .1em 16px .1em 0;
+}
+.ui-dialog-titlebar .ui-dialog-titlebar-close {
+	background: none;
+	border: none!important;
+}
+.ui-dialog .ui-dialog-titlebar-close span {
+	display: block;
+	margin: 0;
+	position: static;
+}
+/*.ui-dialog .ui-dialog-titlebar-close:hover, 
+.ui-dialog .ui-dialog-titlebar-close:focus {
+	padding: 0;
+}*/
+.ui-dialog .ui-dialog-content {
+	padding: 0;
+	zoom: 1;
+}
+.ui-dialog .ui-resizable-se {
+	width: 14px;
+	height: 14px;
+	right: 3px;
+	bottom: 3px;
+}
+.ui-menu .ui-menu-item {
+	zoom: 1;
+	float: left;
+	clear: left;
+}
+
+.ui-slider .ui-slider-handle {
+	width: 1em;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.ui-slider-horizontal {
+	height: .3em;
+	border: 1px solid #666;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background: #e7e7e7;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.ui-slider-horizontal .ui-slider-handle {
+	background: #e7e7e7;
+}
+.ui-spinner {
+  border:1px solid #999;
+  background: #f9f9f9;
+}
+.ui-spinner a.ui-spinner-button {
+  border: none;
+  border-left: 1px solid #999;
+  background-color: #ededed;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.ui-spinner a.ui-spinner-button:hover, 
+.ui-spinner a.ui-spinner-button:focus {
+  background: #ddd;
+}
+.ui-tabs .ui-tabs-nav li {
+	top: 1px;
+	margin: 0 .2em 1px 0;
+	border-bottom: 0 !important;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected {
+	margin-bottom: 0;
+	padding-bottom: 1px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, 
+.ui-tabs .ui-tabs-nav li.ui-state-disabled a, 
+.ui-tabs .ui-tabs-nav li.ui-state-processing a {
+	cursor: text;
+}
+.ui-tabs .ui-tabs-nav li a, 
+.ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+	cursor: pointer;
+} 
+.ui-tabs .ui-tabs-hide {
+	display: none !important;
+}
+
+/* Component containers
+----------------------------------*/
+.ui-widget {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.ui-widget input, 
+.ui-widget select, 
+.ui-widget textarea, 
+.ui-widget button {
+	font-family: 'Helvetica Neue', 'Lucida Grande', sans-serif;
+  font-wight: 500;
+}
+.ui-widget-content {
+	color: #333;
+}
+.ui-dialog-buttonpane.ui-widget-content {
+  background: transparent;
+  border: none;
+}
+.ui-widget-content label {
+	color: #666;
+}
+.ui-widget-content a { 
+  text-decoration: underline;
+  font-size: 0.8em;
+  color: #1E9EA8;
+}
+.ui-widget-header {
+	background: transparent;
+	border: #ffffff;
+	color: #333;
+	font-weight: normal;
+}
+.ui-widget-header a {
+	color: #333;
+}
+
+/* Interaction states
+----------------------------------*/
+.ui-state-default, 
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default {
+	border: 1px solid #CCC9C3;
+  font-weight: 500;
+	color: #676767;
+	font-size: 95%;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
+}
+.ui-state-default a, 
+.ui-state-default a:link, 
+.ui-state-default a:visited {
+	color: #555555;
+}
+.ui-state-hover, 
+.ui-widget-content .ui-state-hover, 
+.ui-widget-header .ui-state-hover, 
+.ui-state-focus, 
+.ui-widget-content .ui-state-focus, 
+.ui-widget-header .ui-state-focus {
+	border: 1px solid #999999;
+	background: #efefef;
+	background: rgba(255, 255, 255, .5);
+	color: #333;
+}
+.ui-state-hover a, 
+.ui-state-hover a:hover {
+	color: #212121;
+}
+.ui-state-active, 
+.ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active {
+	border: 1px solid #AAA;
+	color: #333;
+	background: rgba(0, 0, 0, .1);
+	box-shadow: 2px 2px 9px rgba(0, 0, 0, .15) inset, 1px 1px 0 rgba(255, 255, 255, .6);
+	border-color: #999 #AAA #AAA #999;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+}
+.ui-state-active a, 
+.ui-state-active a:link, 
+.ui-state-active a:visited {
+	color: #212121;
+}
+.ui-widget :active {
+	outline: none;
+}
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-highlight, 
+.ui-widget-content .ui-state-highlight, 
+.ui-widget-header .ui-state-highlight {
+	border: 1px solid #888;
+	background: #ffc;
+	color: #000;
+	font-weight: 600;
+	box-shadow: 2px 2px 17px #D0CEA6 inset, 1px 1px 0 rgba(255, 255, 255, .6);
+	border-color: #8F8E71;
+	border: 1px solid #888;
+	background: #FFC;
+	color: black;
+	font-weight: 600;
+	box-shadow: 2px 2px 17px #D0CEA6 inset, 1px 1px 0 rgba(255, 255, 255, .6), 0 0px 6px rgba(0, 0, 0, .2) inset;
+	border-color: #8F8E71 #ABABAB #ABABAB #8F8E71;
+}
+.ui-state-highlight a, 
+.ui-widget-content .ui-state-highlight a, 
+.ui-widget-header .ui-state-highlight a {
+	color: #333;
+}
+.ui-state-error, 
+.ui-widget-content .ui-state-error, 
+.ui-widget-header .ui-state-error {
+	letter-spacing: 0.05em;
+	padding: 4px 20px;
+}
+
+/* Icons
+----------------------------------*/
+
+.ui-icon,
+.ui-widget-content .ui-icon,
+.ui-icon-closethick {
+	background-image: url(images/ui-icons_333333_256x240.png);
+}
+.ui-dialog .ui-resizable-se {
+  background-position: -80px -224px;
+}
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+.ui-corner-all, 
+.ui-corner-top, 
+.ui-corner-left, 
+.ui-corner-tl {
+	-moz-border-radius-topleft: 0;
+	-webkit-border-top-left-radius: 0;
+	-khtml-border-top-left-radius: 0;
+	border-top-left-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-top, 
+.ui-corner-right, 
+.ui-corner-tr {
+	-moz-border-radius-topright: 0;
+	-webkit-border-top-right-radius: 0;
+	-khtml-border-top-right-radius: 0;
+	border-top-right-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-bottom, 
+.ui-corner-left, 
+.ui-corner-bl {
+	-moz-border-radius-bottomleft: 0;
+	-webkit-border-bottom-left-radius: 0;
+	-khtml-border-bottom-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-bottom, 
+.ui-corner-right, 
+.ui-corner-br {
+	-moz-border-radius-bottomright: 0;
+	-webkit-border-bottom-right-radius: 0;
+	-khtml-border-bottom-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+/* Overlays */
+.ui-widget-overlay {
+	background: #333;
+	opacity: .70;
+	filter:Alpha(Opacity=70);
+}
+.ui-widget-shadow {
+	margin: -8px 0 0 -8px;
+	padding: 8px;
+	background-color: #aaaaaa;
+	opacity: .30;
+	filter:Alpha(Opacity=30);
+	-moz-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}

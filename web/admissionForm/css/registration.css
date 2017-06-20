@@ -1,0 +1,815 @@
+*{
+    margin:0px auto;
+    padding:0px;
+}
+
+body{
+    background-image:url(images/bg.jpg);
+  	background-repeat: repeat-x;
+}
+.row1col{
+    background-image:url(images/00.jpg);
+    text-align:center;
+    background-repeat:no-repeat;
+    height:150px;
+}
+.row1 a{
+        display:inline-block;
+        color:black;
+        text-decoration:none;
+}
+
+.row1a{
+    float:right;
+    padding-top:10px;
+}
+
+.row1 a:hover{
+    color: #479BFC;
+    text-decoration:none;
+}
+
+.search{
+    float: right;
+    padding-top: 20px;
+    margin-left: 403px;
+}
+
+.row2 ul{
+    list-style:none;
+    min-height:41px;
+    background:linear-gradient(to bottom,transparent,#E9EBEC,#D9DBDC,#D9DBDC,#D9DBDC,#777778);
+}
+.row2 ul li{
+    float:left;
+    position:relative;
+}
+
+.row2 ul li:hover{
+    background-color:white;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    border-bottom:1px solid black;
+}
+
+.row2 ul li a{
+    text-decoration: none;
+    display:block;
+    padding:10px 23px;
+    color:#A30506;
+    transition:0.5s;
+}
+
+.row2 ul li a:hover{
+    background-color: white;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    border-bottom:1px solid black;
+
+
+}
+
+.row2 ul ul{
+    position:absolute;
+    display:none;
+    Z-index:112;
+}
+.row2 ul li:hover ul{
+    display:block;
+}
+
+.row2 ul ul li a{
+    width:200px;
+    color:white;
+    padding:5px;
+    padding-left: 10px;
+    transition:0.5s;
+    font-size:12px;
+}
+
+<!-- -->
+.row2 ul ul li a:hover
+{
+background-color:rgba(227,150,90,0.62);
+border-bottom:none;
+border-radius:0px;
+
+}
+
+
+
+.row2 ul ul li:hover
+{
+background-color:rgba(227,150,90,0.8);
+border-bottom:none;
+border-radius:0px;
+
+}
+
+.row2 ul ul li{
+    background-color:rgba(0,0,0,0.5);
+}
+
+.row3 ul{
+    list-style:none;
+    min-height:10px;
+
+}
+
+.row3 ul li{
+    float: left;
+    text-align:center;
+    position:relative;
+}
+
+.row3 ul li:hover{
+    background-color: #2C363F;
+    transition:0.5s;
+}
+
+.row3 ul li a{
+    text-decoration:none;
+    display:block;
+    color:#21C0E8;
+    padding:8px 11px;
+}
+
+.row3 ul li a:hover{
+    background-color: #2C363F;
+     transition:0.5s;
+
+}
+
+.row3{
+    text-align:center;
+}
+
+.row3 .upcomingcourses:hover{
+    background-color: #21C0E8;
+    color:white;
+}
+
+.row3 ul ul{
+    position:absolute;
+    display:none ;
+    z-index:111;
+}
+
+.row3 ul ul li{
+
+   text-align:left;
+   background-color:#2C363F;
+
+}
+
+.row3 ul ul li a{
+        width:250px;
+        color:white;
+        font-size:12px;
+}
+
+
+
+.row3 ul ul  a:hover{
+    background-color:#21C0E8;
+    color:white;
+}
+
+
+.row3 ul li:hover ul{
+    display:block;
+}
+
+.row4col{
+    width: 100%;
+
+
+}
+
+.row4{
+    margin-top: 10px;
+    text-align:center;
+    margin-left:3px;
+    margin-right:3px;
+}
+
+.row2col{
+    margin: 0px;
+}
+
+.row3col{
+    margin: 0px;
+    padding:0px;
+}
+
+.row5 .ictoffers{
+    background-image:url(images/18.png);
+    width:100%;
+    height:30px;
+    text-align:center;
+    border-radius:15px;
+    width: 185px;
+
+    margin-top:5px;
+    line-height:25px;
+}
+
+.ictoffers h4{
+    margin-top:-1px;
+}
+
+.row5slider{
+
+}
+
+.horizontalrule{
+    color: #92A5BC;
+    border:2px solid #92A5BC;
+}
+
+.row5image{
+    text-align: center;
+
+}
+
+.row5anchor a:hover{
+    color:#1FBDFF;
+}
+
+.caption1{
+    text-align: justify;
+    margin-left:170px;
+}
+
+.caption2{
+    text-align: justify;
+    margin-left: -87px;
+    margin-right: 250px;
+}
+
+.caption3{
+    text-align: justify;
+    margin-left: -87px;
+    margin-right: 276px;
+}
+
+.caption4{
+    text-align: justify;
+    padding-left: 146px;
+    margin-right: -104px;
+}
+
+.trainingschedule{
+    background-image: url(images/18.png);
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 1px;
+    width: 180px;
+    margin-top: 5px;
+}
+
+.row5rightside{
+    text-align:center;
+}
+
+.row5rightside a{
+    color:#7F7F7F;
+}
+
+.row5rightside a:hover{
+    color:#73DFFF;
+    text-decoration:none;
+}
+
+.row5rightside h5{
+    color:white;
+    background-color:#7F7F7F;
+    padding:5px;
+    width: 175px;
+}
+
+.a2{
+  text-align:left;
+  padding-left: 46px;
+}
+
+.row5rightside p{
+      text-align:left;
+      padding-left :47px;
+}
+
+.quick_links{
+    text-align:left;
+    padding-left:50px;
+}
+
+.row5rightside a,p{
+    font-size: 12px;
+}
+
+.row5rightside hr{
+    width:170px;
+    border:1px solid black;
+}
+
+.quick_links_header{
+    margin-left:-40px;
+}
+
+.row6 img{
+    margin:10px;
+}
+.row6{
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.row5col{
+    text-align: center;
+}
+
+.row5col6 p{
+    font-size:15px;
+}
+
+.row3col {
+    padding-left: 18px;
+}
+
+.container2{
+    background-color: #5B90C2;
+
+}
+
+.container2 a{
+    color:white;
+    padding:5px;
+    display: block;
+    text-decoration:none;
+}
+
+.container2col {
+   border-left:1px solid white;
+   border-right:1px solid white;
+}
+
+.container2col3{
+      border-right:1px solid white;
+}
+
+.container2col5{
+    text-align:center;
+    display:inline-block;
+    color:white;
+}
+
+.container2col5 img{
+    text-align:center;
+    display:inline-block;
+    margin-top:10px;
+    border-radius:50%;
+    border:1px solid white;
+}
+
+.container2col5 p{
+    color:#414159;
+}
+
+.trschedule p{
+    text-align: left;
+    padding-left:47px;
+}
+
+.trschedule h5{
+    background-color:#7F7F7F;
+    color:white;
+    font-size:15px;
+    width:173px;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+.trschedule hr{
+    border:1px solid black;
+    width:170px;
+}
+
+#head_panel{
+    display:none;
+}
+#foundation_panel{
+    display:none;
+}
+
+
+table,td,th,tr{
+    border:0px solid black;
+}
+
+th,td{
+    padding: 5px;
+}
+.form-group{
+    margin:5px;
+}
+
+#course_name_group{
+    margin-left:150px;
+}
+
+#course_name_label{
+    margin-right: 61px;
+}
+
+#accommodation_group{
+    margin-left: 191px;
+}
+
+#employment_status_group{
+    margin-left: 142px;
+}
+
+#employment_status_label{
+    margin-right: 23px;
+}
+
+#fathers_occupation_group{
+    margin-left: 142px;
+}
+
+#fathers_occupation_label{
+    margin-right: 10px;
+}
+
+#mothers_occupation_group{
+    margin-left: 142px;
+}
+
+#mothers_occupation_label{
+    margin-right: 6px;
+}
+
+#birth_cirtificate_group{
+    margin-left: 142px;
+}
+
+#birth_cirtificate_label{
+    margin-right: 19px;
+}
+
+#gender_group{
+    margin-left: 142px;
+}
+
+#gender_group_label{
+    margin-right: 101px;
+}
+
+#email_group{
+    margin-left: 142px;
+}
+#email_group_label{
+    margin-right: 116px;
+}
+
+#religion_group{
+    margin-left: 142px;
+}
+#religion_label{
+    margin-right: 57px;
+}
+
+#country_group{
+    margin-left: 142px;
+}
+
+#yearly_income_group{
+    margin-left: 142px;
+}
+
+#yearly_income_label{
+    margin-right: 16px;
+}
+#form_chart{
+
+}
+
+form p{
+    color:red;
+    font-weight:bold;
+}
+
+#form_chart{
+    background-color:#D9DBDC;
+    margin-left:5px;
+    margin-right:5px;
+    color:black;
+    margin-top:10px;
+    margin-bottom:10px;
+    box-shadow:3px 3px 5px 1px black;
+}
+
+#head_text_area{
+    display:inline-block;
+    text-align:center;
+    margin-left:268px
+}
+
+#tmss_logo1{
+    width:150px;
+    float:left;
+}
+#tmss_logo2{
+    width:150px;
+    float:right;
+    margin-top:10px;;
+}
+
+@media(max-width:992px)
+{
+
+    #head_text_area{
+    display:inline-block;
+    text-align:center;
+    margin-left:73px;
+}
+
+   #course_name_group{
+    margin-left:0px;
+}
+
+
+
+#course_name_label{
+    margin-right: 0px;
+}
+
+#accommodation_group{
+    margin-left: 0px;
+}
+
+#employment_status_group{
+    margin-left: 0px;
+}
+
+#employment_status_label{
+    margin-right: 0px;
+}
+
+#fathers_occupation_group{
+    margin-left: 0px;
+}
+
+#fathers_occupation_label{
+    margin-right: 0px;
+}
+
+#mothers_occupation_group{
+    margin-left: 0px;
+}
+
+#mothers_occupation_label{
+    margin-right: 0px;
+}
+
+#birth_cirtificate_group{
+    margin-left: 0px;
+}
+
+#birth_cirtificate_label{
+    margin-right: 0px;
+}
+
+#gender_group{
+    margin-left: 0px;
+}
+
+#gender_group_label{
+    margin-right: 0px;
+}
+
+#email_group{
+    margin-left: 0px;
+}
+#email_group_label{
+    margin-right: 0px;
+}
+
+#religion_group{
+    margin-left: 0px;
+}
+#religion_label{
+    margin-right: 0px;
+}
+
+#country_group{
+    margin-left: 0px;
+}
+
+#yearly_income_group{
+    margin-left: 0px;
+}
+
+#yearly_income_label{
+    margin-right: 0px;
+}
+}
+
+
+@media(max-width:768px)
+{
+    #tmss_logo1{
+    width:100px;
+    float:left;
+}
+#tmss_logo2{
+    width:100px;
+    float:right;
+    margin-top:10px;;
+}
+    #head_text_area{
+    display:inline-block;
+    text-align:center;
+    margin-left: 0px;
+}
+
+   #course_name_group{
+    margin-left:0px;
+}
+
+
+
+#course_name_label{
+    margin-right: 0px;
+}
+
+#accommodation_group{
+    margin-left: 0px;
+}
+
+#employment_status_group{
+    margin-left: 0px;
+}
+
+#employment_status_label{
+    margin-right: 0px;
+}
+
+#fathers_occupation_group{
+    margin-left: 0px;
+}
+
+#fathers_occupation_label{
+    margin-right: 0px;
+}
+
+#mothers_occupation_group{
+    margin-left: 0px;
+}
+
+#mothers_occupation_label{
+    margin-right: 0px;
+}
+
+#birth_cirtificate_group{
+    margin-left: 0px;
+}
+
+#birth_cirtificate_label{
+    margin-right: 0px;
+}
+
+#gender_group{
+    margin-left: 0px;
+}
+
+#gender_group_label{
+    margin-right: 0px;
+}
+
+#email_group{
+    margin-left: 0px;
+}
+#email_group_label{
+    margin-right: 0px;
+}
+
+#religion_group{
+    margin-left: 0px;
+}
+#religion_label{
+    margin-right: 0px;
+}
+
+#country_group{
+    margin-left: 0px;
+}
+
+#yearly_income_group{
+    margin-left: 0px;
+}
+
+#yearly_income_label{
+    margin-right: 0px;
+}
+}
+
+@media(max-width:514px)
+{
+        #tmss_logo1{
+    width:80px;
+    float:left;
+}
+#tmss_logo2{
+    display:none;
+    width:100px;
+    float:right;
+    margin-top:10px;;
+}
+    #head_text_area{
+    display:inline-block;
+    text-align:center;
+    margin-left: 0px;
+}
+
+   #course_name_group{
+    margin-left:0px;
+}
+
+
+
+#course_name_label{
+    margin-right: 0px;
+}
+
+#accommodation_group{
+    margin-left: 0px;
+}
+
+#employment_status_group{
+    margin-left: 0px;
+}
+
+#employment_status_label{
+    margin-right: 0px;
+}
+
+#fathers_occupation_group{
+    margin-left: 0px;
+}
+
+#fathers_occupation_label{
+    margin-right: 0px;
+}
+
+#mothers_occupation_group{
+    margin-left: 0px;
+}
+
+#mothers_occupation_label{
+    margin-right: 0px;
+}
+
+#birth_cirtificate_group{
+    margin-left: 0px;
+}
+
+#birth_cirtificate_label{
+    margin-right: 0px;
+}
+
+#gender_group{
+    margin-left: 0px;
+}
+
+#gender_group_label{
+    margin-right: 0px;
+}
+
+#email_group{
+    margin-left: 0px;
+}
+#email_group_label{
+    margin-right: 0px;
+}
+
+#religion_group{
+    margin-left: 0px;
+}
+#religion_label{
+    margin-right: 0px;
+}
+
+#country_group{
+    margin-left: 0px;
+}
+
+#yearly_income_group{
+    margin-left: 0px;
+}
+
+#yearly_income_label{
+    margin-right: 0px;
+}
+}

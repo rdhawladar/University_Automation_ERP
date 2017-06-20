@@ -1,0 +1,227 @@
+
+.grid-view table{
+	margin-bottom: 0px !important;
+
+}
+
+
+ul, ol {
+    margin: 0px !important;
+    padding-left: 0px !important;
+}
+
+
+/* GridView */
+.grid-view-loading
+{
+    background-image: url('../images/loader.gif') no-repeat !important;
+}
+
+li.page, li.next, li.previous {margin:0}
+
+
+.grid-view table.items
+{
+	border-collapse: collapse;
+	width: 100%;
+	border: 0 none !important;
+	cursor: pointer;
+
+}
+
+
+.grid-view table.items th, .grid-view table.items td
+{
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding: 0.7em;
+	padding-left: 1.2em;
+	padding-right: 0.2em;
+	color: #000;
+	text-align: left;
+	
+
+}
+.grid-view table.items td{
+
+	/* font-size: 1.2em; */
+
+}
+.grid-view table.items th{
+
+	background:#E8E8E8;
+	color:#424242; 
+	/* font-size: 0.8em; */
+	border-bottom:1px solid #d3d3d3;
+}
+
+
+/*.grid-view table.items tr.even*/
+.grid-view table.items tr{
+	border:1px solid #d3d3d3;
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+
+	-moz-user-select: none;
+    -webkit-user-select: none; 
+    onselectstart:return false;
+
+    cursor: pointer;
+}
+
+
+tr.even
+{
+	background: #f9f9f9;
+}
+
+/*.grid-view table.items tr.odd*/
+tr.odd
+{
+	background: #fff;
+}
+
+.grid-view table.items tr.selected
+{
+	background:#cfd8dc !important;
+	color: #fff!important;
+
+}
+
+.grid-view table.items tr:hover td
+{
+	background:#eceff1;
+	
+}
+.grid-view table.items tr:hover td a
+{
+	//background:#E8E8E8;
+	//color:#000;
+	
+}
+
+.grid-view .button-column
+{
+	text-align: center;
+	width: 70px;
+	margin-right: 0px;
+}
+.button-column a
+{
+	
+	margin-left: 10px;
+}
+
+
+.grid-view .checkbox-column
+{
+	width: 15px;
+}
+
+/*.grid-view .summary*/
+div.summary
+{
+	display: none;
+}
+
+/*.grid-view .pager*/
+div.pager
+{
+	margin-top: -1px;
+	padding: 5px 0 0 0;
+	text-align: center;
+	height:30px;
+/*	color: #fff;*/
+	border:1px solid #979797;
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+        background-color: #F2F2F2;
+}
+
+.pager ul{
+
+	padding-top:5px;
+}
+
+.grid-view .empty
+{
+	font-style: italic;
+}
+
+.grid-view .filters input,
+.grid-view .filters select
+{
+	width: 100%;
+	border: 1px solid #ccc;
+	-moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px;
+}
+
+
+/* Styles for ClinkPager */
+ul.yiiPager
+{
+	font-size:.9em;
+
+}
+
+ul.yiiPager li
+{
+	display:inline;
+}
+
+ul.yiiPager a:link,
+ul.yiiPager a:visited
+{
+	border:solid 1px #ccc;
+	color:inherit;
+	font-weight:bold;
+	padding:2px 8px;
+	text-decoration:none;
+	-moz-border-radius:3px; -webkit-border-radius:3px; border-radius: 3px;
+}
+
+ul.yiiPager .page a
+{
+	font-weight: 600;
+}
+
+ul.yiiPager a:hover
+{
+	//background:#339933;
+	color:#76cbe4;
+}
+
+ul.yiiPager .selected a
+{
+	background:#76cbe4;
+	color:#fff;
+	font-weight:bold;
+	font-size:1.3em;
+}
+ul.yiiPager .selected a:hover
+{
+	background:#F2F2F2;
+	color:#76cbe4;
+	font-weight:bold;
+	font-size:1.3em;
+}
+
+ul.yiiPager .hidden a
+{
+	border:1px solid #ccc;
+	color:inherit;
+}
+
+
+
+div.demo_box{
+	background: transparent url('images/bg.gif') repeat scroll left top;
+	-moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px;
+}
+
+div.grid-view {
+	background:#fff;
+	
+
+}

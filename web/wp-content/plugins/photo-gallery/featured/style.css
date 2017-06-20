@@ -1,0 +1,201 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+#main_featured_plugins_page {
+	font-family: Oswald;
+  width: 90%;
+  margin: 15px auto 0px auto;
+}
+
+#main_featured_plugins_page h3 {
+    border-bottom: 2px solid #CECECE;
+  color: rgb(111, 111, 111);
+  font-family: Segoe UI;
+  font-size: 18px;
+  margin: 0px auto 15px auto;
+  padding: 20px 0;
+}
+
+#main_featured_plugins_page #featured-plugins-list {
+	position:relative;
+	margin:0px auto;
+	height:auto;
+	display:table;
+	list-style:none;
+	text-align: center;
+	width: 100%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li {
+  display: inline-table;
+  width: 200px;
+  margin: 20px 10px 0px 10px;
+  background: #FFFFFF;
+  border-right: 3px solid #E5E5E5;
+  height: 335px;
+  border-bottom: 3px solid #E5E5E5;
+	position: relative;
+}
+
+#main_featured_plugins_page #featured-plugins-list li .product {
+	position:relative;
+	height:113px;
+	background-color: transparent !important;
+	background-position-x: 50% !important;
+	margin: 7px;
+	border-radius: 3px;
+  background-size: 115px !important;
+}
+
+#main_featured_plugins_page #featured-plugins-list li .title {
+	width: 90%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#main_featured_plugins_page #featured-plugins-list  li.form-maker  .product {background:url("images/form.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.catalog  .product {background:url("images/catalog.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contact-maker  .product {background:url("images/contact.maker.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contacts  .product {background:url("images/contacts.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.facebook  .product {background:url("images/facebook.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.faq  .product {background:url("images/faq.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.flash-calendar .product {background:url("images/flash.calendar.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.player  .product {background:url("images/player.png") center center no-repeat;  }
+#main_featured_plugins_page #featured-plugins-list  li.spider-calendar  .product {background:url("images/spider.calendar.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contact_form_bulder .product {background:url("images/contact.builder.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.random_post  .product {background:url("images/random.post.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.slider_wd  .product {background:url("images/slider.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.folder_menu  .product {background:url("images/folder.menu.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.zoom .product {background:url("images/zoom.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.fm-import .product {background:url("images/fm-import.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.photo-gallery  .product {background:url("images/photo-gallery.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.twitter-widget  .product {background:url("images/twittertools.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.events-wd  .product {background:url("images/events-wd.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.faq_wd  .product {background:url("images/faq_wd.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.instagram_feed  .product {background:url("images/instagram_feed.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.post-slider  .product {background:url("images/post-slider.png") center center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.google-maps  .product {background:url("images/google-maps.png") center center no-repeat;}
+
+#main_featured_plugins_page #featured-plugins-list li .title .heading {
+	display: block;
+  position: relative;
+  font-size: 17px;
+  color: #767676;
+  margin: 13px 0px 13px 0px;
+  text-transform: uppercase;
+}
+
+#main_featured_plugins_page #featured-plugins-list li .title p {
+	font-size:14px;
+	color:#444;
+	margin-left:20px;
+}
+
+#main_featured_plugins_page #featured-plugins-list li .description {
+	height: 127px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#main_featured_plugins_page #featured-plugins-list li .description  p {
+	text-align: center;
+	width: 100%;
+	color: #9A9A9A;
+	font-family: Segoe UI Light;
+}
+
+#featured-plugins-list li a.download {
+	display: block;
+  border-top: 1px solid #CACACA;
+  outline: none;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 40px;
+  text-decoration: none;
+  font-weight: bolder;
+  text-align: center;
+  color: #134D68;
+  position: absolute;
+  text-transform: uppercase;
+  bottom: 0;
+  left: 10px;
+  font-family: Segoe UI Black;
+  text-shadow: 1px 0;
+}
+	
+#featured-plugins-list li a.download:hover {
+	color: #F47629;
+}
+
+.featured_header {
+  background: #11465F;
+  border-right: 3px solid #E5E5E5;
+  border-bottom: 3px solid #E5E5E5;
+  position: relative;
+  padding: 20px 0;
+}
+
+.featured_header .old_price {
+  color: rgba(180, 180, 180, 0.3);
+  text-decoration: line-through;
+  font-family: Oswald;
+}
+
+.featured_header h1.get_plugins {
+  color: #FFFFFF;
+  height: 85px;
+  margin: 0;
+  background-size: 85% 100%;
+  background-position: center;
+  line-height: 60px;
+}
+
+.featured_header .try-now {
+	text-align: center;
+}
+
+.featured_header .try-now span {
+	display: inline-block;
+  padding: 7px 16px;
+  background: #F47629;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 23px;
+}
+
+.featured_header h1 {
+	font-size: 50px;
+  text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.featured_header a {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 1105px) {
+  .featured_header h1 {
+		font-size: 37px;
+		line-height: 0;
+	}
+}
+
+@media screen and (max-width: 835px) {
+	.get_plugins span {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.featured_header h1 {
+		line-height: 40px;
+	}
+}
+
+@media screen and (max-width: 435px) {	
+	.featured_header h1 {
+		font-size: 20px;
+		line-height: 25px;
+	}
+}

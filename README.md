@@ -1,4 +1,4 @@
-# pundro_demo
+# University Management Software
 University Automation:-
 
 Module-1: Dashboard <br/>
